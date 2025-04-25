@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-st.title("Machine Learning-Based Predictive Modeling of Wire EDM Performance Metrics Under Parametric Uncertainty")
+st.title("ML Based Predictive Modeling of Wire EDM Performance Metrics - Sonu Hansda")
 st.write("""
 Demonstrating the working of three machine learning models for predicting:  
 1. **Cutting Rate (CR)**  
